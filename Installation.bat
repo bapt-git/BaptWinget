@@ -4,7 +4,7 @@ setlocal
 set Dir=c:\users\%username%\tempwinget
 if not exist %Dir% mkdir %Dir%
 cd %Dir%
-curl.exe -LJO https://github.com/bapt-git/SimaWinget/archive/main.zip
+curl.exe -LJO https://github.com/bapt-git/BaptWinget/archive/main.zip
 
 
 cd /d %~dp0
