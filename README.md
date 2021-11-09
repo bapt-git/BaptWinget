@@ -1,4 +1,4 @@
-# SimaWinget
+# Bapt Winget
 PS installation Default Baptiste via WinGet
 
 Attention, il faut installer Winget s'il n'est pas installé :
