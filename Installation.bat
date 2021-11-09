@@ -31,4 +31,6 @@ cd C:\Users\bmaubey\tempwinget\BaptWinget-main\
 powershell -noprofile -command "Set-ExecutionPolicy bypass LocalMachine"
 powershell -file %Dir%\BaptWinget-main\Default.ps1
 
+echo ca en fait du temp de gagne...
 pause
+exit
