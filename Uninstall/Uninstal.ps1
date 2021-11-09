@@ -1,4 +1,4 @@
-Write-Host "Uninstalling Windows shit"
+Write-Host "Uninstalling Pouriciel de Windows"
 
 foreach ($line in Get-Content $PSSCriptRoot\Uninstall.txt) {
     if ($line.contains("#")) {
