@@ -1,0 +1,5 @@
+VivaldiTechnologies.Vivaldi
+Signal.Signal
+Deezer.Deezer
+Mozilla.Firefox
+ONLYOFFICE.DesktopEditors
