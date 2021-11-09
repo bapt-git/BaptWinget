@@ -1,7 +1,7 @@
 # SimaWinget
-PS installation Default Baptiste
+PS installation Default Baptiste via WinGet
 
-Intégration Jeux, Utils (Utilitaires), SIMA :
-Ficher installation/désinstallation des softs via Winget
+Installation automatique Jeux, Utils (Utilitaires), Pro, Logiciels indispensables, etc...
+et Désinstallation des logiciels inutiles de Windows
 
 Merci @Alejandro Barrachina Argudo ALK222
