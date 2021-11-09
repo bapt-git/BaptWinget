@@ -25,9 +25,6 @@ Microsoft.BingFinance
 Microsoft.ZuneVideo
 Microsoft.BingNews
 Microsoft.MicrosoftOfficeHub
-Netflix
-OneNote
-Microsoft.MSPaint
 PandoraMediaInc
 Microsoft.People
 CommsPhone
@@ -43,7 +40,6 @@ Microsoft.Getstarted
 Twitter
 Microsoft3DViewer
 Microsoft.WindowsSoundRecorder
-Microsoft.BingWeather
 Microsoft.XboxApp
 XboxOneSmartGlass
 Microsoft.XboxSpeechToTextOverlay
