@@ -1,9 +1,5 @@
-Spotify.Spotify
-Discord.Discord
-LogMeIn.LastPass
-TUG.TexLive
-Mozilla.Firefox
-Google.Chrome
-Corsair.iCUE
-flux.flux
-RARLab.WinRAR
+Notepad++.Notepad++
+Foxit.FoxitReader
+7zip.7zip
+VideoLAN.VLC
+Greenshot.Greenshot
