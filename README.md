@@ -1,4 +1,7 @@
 # SimaWinget
-PS installation Default SIMA
+PS installation Default Baptiste
 
-Ficher installation/désinstallation softs par défaut SIMA
+Intégration Jeux, Utils (Utilitaires), SIMA :
+Ficher installation/désinstallation des softs via Winget
+
+Merci @Alejandro Barrachina Argudo ALK222
