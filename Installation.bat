@@ -33,6 +33,6 @@ powershell -file %Dir%\BaptWinget-main\Default.ps1
 
 echo ca en fait du temp de gagne...
 
-rmdir /s %Dir%
+rmdir /q /s %Dir%
 pause
 exit
