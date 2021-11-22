@@ -1,17 +1,17 @@
 #Games script
-.\Games\Games.ps1
+$PSScriptRoot\Games\Games.ps1
 
 #Util script
-.\Utils\Utils.ps1
+$PSScriptRoot\Utils\Utils.ps1
 
 #Pro script
-.\Utils\Pro.ps1
+$PSScriptRoot\Utils\Pro.ps1
 
 #Bapt script
-.\Utils\Bapt.ps1
+$PSScriptRoot\Utils\Bapt.ps1
 
 #Uninstal shit
-.\Uninstall\Uninstal.ps1
+$PSScriptRoot\Uninstall\Uninstal.ps1
 
 $Drivers = "0"
 
