@@ -26,11 +26,13 @@ if exist %vbs% del /f /q %vbs%
 cscript //nologo %vbs%
 if exist %vbs% del /f /q %vbs%
 
-cd C:\Users\%username%\tempwinget\BaptWinget-main\
+cd %Dir%\BaptWinget-main\
 
 powershell -noprofile -command "Set-ExecutionPolicy bypass LocalMachine"
 powershell -file %Dir%\BaptWinget-main\Default.ps1
 
 echo ca en fait du temp de gagne...
+
+rmdir /s %Dir%
 pause
 exit
