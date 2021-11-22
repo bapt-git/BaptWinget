@@ -51,3 +51,10 @@ Microsoft.Xbox.TCUI
 Microsoft.YourPhone
 Microsoft.XboxGameCallableUi
 Microsoft.OneDrive
+Tile.TileWindowsApplication
+Microsoft.Microsoft3DViewer
+HP_Documentation
+AD2F1837.HPPrivacySettings
+AD2F1837.HPQuickDrop
+Microsoft.MicrosoftStickyNotes
+Microsoft.ScreenSketch
