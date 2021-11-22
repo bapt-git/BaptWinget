@@ -26,7 +26,7 @@ if exist %vbs% del /f /q %vbs%
 cscript //nologo %vbs%
 if exist %vbs% del /f /q %vbs%
 
-cd C:\Users\bmaubey\tempwinget\BaptWinget-main\
+cd C:\Users\%username%\tempwinget\BaptWinget-main\
 
 powershell -noprofile -command "Set-ExecutionPolicy bypass LocalMachine"
 powershell -file %Dir%\BaptWinget-main\Default.ps1
