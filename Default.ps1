@@ -5,10 +5,10 @@
 .\Utils\Utils.ps1
 
 #Pro script
-.\Utils\Pro.ps1
+.\Pro\Pro.ps1
 
 #Bapt script
-.\Utils\Bapt.ps1
+.\Bapt\Bapt.ps1
 
 #Uninstal shit
 .\Uninstall\Uninstal.ps1
