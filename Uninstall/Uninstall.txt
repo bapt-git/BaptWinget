@@ -58,3 +58,7 @@ AD2F1837.HPPrivacySettings
 AD2F1837.HPQuickDrop
 Microsoft.MicrosoftStickyNotes
 Microsoft.ScreenSketch
+AD2F1837.HPPowerManager
+Microsoft.Windows.ParentalControls
+AD2F1837.HPSupportAssistant
+AD2F1837.HPProgrammableKey
