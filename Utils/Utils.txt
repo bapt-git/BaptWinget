@@ -3,4 +3,3 @@ Foxit.FoxitReader
 7zip.7zip
 VideoLAN.VLC
 Greenshot.Greenshot
-Fortinet.FortiClientVPN
