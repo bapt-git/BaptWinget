@@ -1,2 +1,3 @@
-TimKosse.FileZillaClient
+TimKosse.FileZilla.Client
 Fortinet.FortiClientVPN
+Microsoft.Teams
