@@ -1,3 +1,4 @@
 TimKosse.FileZilla.Client
 Fortinet.FortiClientVPN
 Microsoft.Teams
+Oracle.JavaRuntimeEnvironment
