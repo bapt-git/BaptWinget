@@ -62,3 +62,13 @@ AD2F1837.HPPowerManager
 Microsoft.Windows.ParentalControls
 AD2F1837.HPSupportAssistant
 AD2F1837.HPProgrammableKey
+AmazonVideo.PrimeVideo
+FACEBOOK.FACEBOOK
+Facebook.InstagramBeta
+*facebook*
+Disney.37853FC22B2CE
+Deezer.62021768415AF
+4DF9E0F8.Netflix
+Disney*
+Deezer*
+*Netflix
