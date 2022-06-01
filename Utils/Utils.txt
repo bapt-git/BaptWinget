@@ -2,4 +2,3 @@ Notepad++.Notepad++
 Foxit.FoxitReader
 7zip.7zip
 VideoLAN.VLC
-Greenshot.Greenshot
